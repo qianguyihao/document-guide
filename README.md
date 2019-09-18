@@ -2,7 +2,7 @@
 
 ## 标题
 
-正确：
+正确：（Markdown 语法）
 
 ```markdown
 # 文章的标题
@@ -16,9 +16,46 @@
 
 原则：
 
-（1）为保证标题的连贯性，`#` 的标题下不要直接出现 `###` 的标题。
+（1）文章内容的标题一般用 `##` 和 `###`。为保证层级的简单，请尽量避免出现 `####` 的标题。
 
-（2）为保证层级的简单，请尽量避免出现 `####` 的标题。
+（2）为保证标题的连贯性，`#` 的标题下不要直接出现 `###` 的标题。
+
+## 图片
+
+
+**1、图片大小**：
+
+为方便网络传输，且保证清晰度，图片大小尽量控制在 **100 KB** 至 **500 KB** 之间。
+
+如果图片过大，可以使用网址 <https://tinypng.com/> 进行压缩；如果图片不够清晰，请重新制图。
+
+**2、图片格式**：
+
+![](http://img.smyhvae.com/20190908_2238.png)
+
+静态图片用 png、jpg格式；动态图用 gif 格式。gif 动图可以使用软件 [LICEcap](https://www.cockos.com/licecap/) 录制屏幕生成。
+
+**3、图片文件名**：
+
+图片的文件名使用**当前时间戳**，格式：`YYMMDD_HHMM`。格式举例：
+
+```
+20190902_1010.png
+
+20180228_1505.jpg
+
+20180616_1618.gif
+```
+
+**4、流程图制作工具**：
+
+- 流程图、思维导图（在线）：<https://www.processon.com>
+
+- 思维导图（在线）：<https://naotu.baidu.com>
+
+- 思维导图（本地）：<https://www.xmind.cn>
+
+- 列清单、思维导图（在线）：<https://mubu.com>
 
 
 ## 空格
@@ -28,13 +65,13 @@
 正确：
 
 ```
-任何可以使用 JavaScript 来编写的应用，最终会由 JavaScript 编写。
+任何可以使用 JavaScript 来编写的应用，最终都会由 JavaScript 编写。
 ```
 
 错误：
 
 ```
-任何可以使用JavaScript来编写的应用，最终会由JavaScript编写。
+任何可以使用JavaScript来编写的应用，最终都会由JavaScript编写。
 ```
 
 ### 中文和数字之间需要增加空格
@@ -97,7 +134,6 @@ Stay hungry,stay foolish.That is Steve's famous quote.
 全球最大的同性交友社区 GitHub，已被微软收购。
 ```
 
-
 ## 专有名词使用正确的大小写
 
 正确：
@@ -155,6 +191,24 @@ Facebook, Inc.
 互联网上充斥着大量的内容，「知识付费」成为下一个风口。我每天使用「得到」App，阅读一小时。
 ```
 
+## 公众号 Markdown 编辑器推荐
+
+- markdown在线转换工具：<http://blog.didispace.com/tools/online-markdown/>
+
+- markdown在线转换工具2：<http://prod.zkqiang.cn/wxeditor/index.html>
+
+可以针对外链，自动生成脚注。
+
+- markdown在线转换工具3：<https://www.mdnice.com/>
+
+可以针对外链，自动生成脚注。
+
+- markdown在线转换工具4：<http://md.aclickall.com/>
+
+**备注**：生成的脚注，效果如下：
+
+![](http://img.smyhvae.com/20190915_1522.png)
+
 ## 参考链接
 
 - [《中文技术文档的写作规范》](https://github.com/ruanyf/document-style-guide)
@@ -170,4 +224,5 @@ Facebook, Inc.
 - [stormzhang | 每个人都需要的中文排版指南](https://mp.weixin.qq.com/s/k5DAmYtMrdSlK1jHsW-hrg)
 
 - [《这是曹将公众号排版的所有秘密！》](https://mp.weixin.qq.com/s/DEUUcO4FhCiIYmh61wGXnw)
+
 
