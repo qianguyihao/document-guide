@@ -23,19 +23,23 @@
 ## 图片
 
 
-**1、图片大小**：
+### 1、图片大小
 
 为方便网络传输，且保证清晰度，图片大小尽量控制在 **100 KB** 至 **500 KB** 之间。
 
 如果图片过大，可以使用网址 <https://tinypng.com/> 进行压缩；如果图片不够清晰，请重新制图。
 
-**2、图片格式**：
+### 2、图片格式
 
 ![](http://img.smyhvae.com/20190908_2238.png)
 
-静态图片用 png、jpg格式；动态图用 gif 格式。gif 动图可以使用软件 [LICEcap](https://www.cockos.com/licecap/) 录制屏幕生成。
+静态图片用 png、jpg格式。
 
-**3、图片文件名**：
+动态图用 gif 格式。gif 动图可以使用软件 [LICEcap](https://www.cockos.com/licecap/) 录制屏幕生成。
+
+**gif 图的帧数不要超过 300 帧**，否则无法上传到公众号。一般情况下，gif 图的大小控制在 500kb 以内，基本能符合要求。
+
+### 3、图片文件名
 
 图片的文件名使用**当前时间戳**，格式：`YYMMDD_HHMM`。格式举例：
 
@@ -47,7 +51,7 @@
 20180616_1618.gif
 ```
 
-**4、流程图制作工具**：
+### 4、流程图制作工具
 
 - 流程图、思维导图（在线）：<https://www.processon.com>
 
@@ -57,6 +61,11 @@
 
 - 列清单、思维导图（在线）：<https://mubu.com>
 
+### 5、图片素材网站
+
+- <https://unsplash.com/>
+
+Unsplash 是国外知名度最高的免费高清网站（图片素材免费、无版权），是现代年轻人喜欢的 ins 简约风，到处都充满生活剪影。
 
 ## 空格
 
@@ -191,19 +200,28 @@ Facebook, Inc.
 互联网上充斥着大量的内容，「知识付费」成为下一个风口。我每天使用「得到」App，阅读一小时。
 ```
 
+## 图床工具
+
+写文章免不了要做图片传图片，推荐使用 [PicGo](https://molunerfinn.com/PicGo/) 工具，不论屏幕截图、还是复制图片，都可以自动上传、保存 Markdown 格式的链接，直接粘贴插入。
+
+对了，在使用 PicGo 之前，先要保证你要有一个保存图片的图床服务器，配置到 PicGo 上，然后再让 PicGo 帮你生成图片的url链接。
+
 ## 公众号 Markdown 编辑器推荐
 
-- markdown在线转换工具：<http://blog.didispace.com/tools/online-markdown/>
+- markdown在线转换工具1：<https://www.mdnice.com/>
+
+可以针对外链，自动生成脚注。用的人很多，推荐里面的「橙心主题」。
 
 - markdown在线转换工具2：<http://prod.zkqiang.cn/wxeditor/index.html>
 
 可以针对外链，自动生成脚注。
 
-- markdown在线转换工具3：<https://www.mdnice.com/>
-
-可以针对外链，自动生成脚注。
+- markdown在线转换工具3：<https://lab.lyric.im/wxformat>
 
 - markdown在线转换工具4：<http://md.aclickall.com/>
+
+- markdown在线转换工具5：<http://blog.didispace.com/tools/online-markdown/>
+
 
 **备注**：生成的脚注，效果如下：
 
@@ -224,5 +242,4 @@ Facebook, Inc.
 - [stormzhang | 每个人都需要的中文排版指南](https://mp.weixin.qq.com/s/k5DAmYtMrdSlK1jHsW-hrg)
 
 - [《这是曹将公众号排版的所有秘密！》](https://mp.weixin.qq.com/s/DEUUcO4FhCiIYmh61wGXnw)
-
 
