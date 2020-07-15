@@ -22,7 +22,6 @@
 
 ## 图片
 
-
 ### 1、图片大小
 
 为方便网络传输，且保证清晰度，图片大小尽量控制在 **100 KB** 至 **500 KB** 之间。
@@ -33,7 +32,7 @@
 
 ![](http://img.smyhvae.com/20190908_2238.png)
 
-静态图片用 png、jpg格式。
+静态图片用 png、jpg 格式。
 
 动态图用 gif 格式。gif 动图可以使用软件 [LICEcap](https://www.cockos.com/licecap/) 录制屏幕生成。
 
@@ -63,9 +62,50 @@
 
 ### 5、图片素材网站
 
-- <https://unsplash.com/>
+- <https://unsplash.com>
 
 Unsplash 是国外知名度最高的免费高清网站（图片素材免费、无版权），是现代年轻人喜欢的 ins 简约风，到处都充满生活剪影。
+
+- <https://pixabay.com>
+
+免费正版高清图片素材库。
+
+## Markdown 规范
+
+### 1、换行
+
+每两段的中间，需要空出一行。
+
+正确：
+
+```
+段落1（这里是第一行）
+
+段落2（这里是第三行）
+```
+
+错误：
+
+```
+段落1（这里是第一行）
+段落2（这里是第二行）
+```
+
+### 2、四级标题
+
+文中的四级标题，请不要用 `####`，建议使用加粗文本即可。
+
+正确：
+
+```
+**我是四级标题**：
+```
+
+错误：（四级标题渲染出来的字体大小，其实跟普通文本差不多，所以不要用）
+
+```
+#### 我是四级标题
+```
 
 ## 空格
 
@@ -204,28 +244,29 @@ Facebook, Inc.
 
 写文章免不了要做图片传图片，推荐使用 [PicGo](https://molunerfinn.com/PicGo/) 工具，不论屏幕截图、还是复制图片，都可以自动上传、保存 Markdown 格式的链接，直接粘贴插入。
 
-对了，在使用 PicGo 之前，先要保证你要有一个保存图片的图床服务器，配置到 PicGo 上，然后再让 PicGo 帮你生成图片的url链接。
+对了，在使用 PicGo 之前，先要保证你要有一个保存图片的图床服务器，配置到 PicGo 上，然后再让 PicGo 帮你生成图片的 url 链接。
 
-## 公众号 Markdown 编辑器推荐
+## 排版相关
 
-- markdown在线转换工具1：<https://www.mdnice.com/>
+### 公众号 Markdown 编辑器推荐
 
-可以针对外链，自动生成脚注。用的人很多，推荐里面的「橙心主题」。
+- 【荐】markdown 在线转换工具 1：<https://www.mdnice.com/>
 
-- markdown在线转换工具2：<http://prod.zkqiang.cn/wxeditor/index.html>
+这个 markdown 排版网站用的人最多。还可以针对外链，自动生成脚注。
+
+- markdown 在线转换工具 2：<http://prod.zkqiang.cn/wxeditor/index.html>
 
 可以针对外链，自动生成脚注。
 
-- markdown在线转换工具3：<https://lab.lyric.im/wxformat>
+- markdown 在线转换工具 3：<https://lab.lyric.im/wxformat>
 
-- markdown在线转换工具4：<http://md.aclickall.com/>
+- markdown 在线转换工具 4：<http://md.aclickall.com/>
 
-- markdown在线转换工具5：<http://blog.didispace.com/tools/online-markdown/>
+- markdown 在线转换工具 5：<http://blog.didispace.com/tools/online-markdown/>
 
+### 文本纠错
 
-**备注**：生成的脚注，效果如下：
-
-![](http://img.smyhvae.com/20190915_1522.png)
+写作猫（文本纠错网站）：<https://xiezuocat.com/>
 
 ## 参考链接
 
@@ -237,9 +278,10 @@ Facebook, Inc.
 
 - [《中文排版指南》](https://github.com/ctf-wiki/ctf-wiki/wiki/%E4%B8%AD%E6%96%87%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97)
 
-- [《README文档的规范写法》](https://github.com/AweiLoveAndroid/CommonDevKnowledge/blob/master/github_README/README%E6%96%87%E6%A1%A3%E7%9A%84%E8%A7%84%E8%8C%83%E5%86%99%E6%B3%95.md)
+- [《README 文档的规范写法》](https://github.com/AweiLoveAndroid/CommonDevKnowledge/blob/master/github_README/README%E6%96%87%E6%A1%A3%E7%9A%84%E8%A7%84%E8%8C%83%E5%86%99%E6%B3%95.md)
 
 - [stormzhang | 每个人都需要的中文排版指南](https://mp.weixin.qq.com/s/k5DAmYtMrdSlK1jHsW-hrg)
 
 - [《这是曹将公众号排版的所有秘密！》](https://mp.weixin.qq.com/s/DEUUcO4FhCiIYmh61wGXnw)
 
+- [文章排版规范](https://wiki-power.com/#/post/%E6%95%88%E7%8E%87/%E6%96%87%E7%AB%A0%E6%8E%92%E7%89%88%E8%A7%84%E8%8C%83)
