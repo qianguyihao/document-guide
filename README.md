@@ -50,7 +50,15 @@
 20180616_1618.gif
 ```
 
-### 4、流程图制作工具
+### 4、截图工具
+
+- 最常用的截图工具：[Snipaste](https://zh.snipaste.com/)
+
+- 截图时可带阴影的截图工具：[Xnip](https://zh.xnipapp.com/)、[iShot](https://sspai.com/post/57302)
+
+- gif 录屏工具：[LICEcap](https://www.cockos.com/licecap/)
+
+### 5、流程图制作工具
 
 - 流程图、思维导图（在线）：<https://www.processon.com>
 
@@ -60,7 +68,7 @@
 
 - 列清单、思维导图（在线）：<https://mubu.com>
 
-### 5、图片素材网站
+### 6、图片素材网站
 
 - <https://unsplash.com>
 
@@ -246,25 +254,37 @@ Facebook, Inc.
 
 对了，在使用 PicGo 之前，先要保证你要有一个保存图片的图床服务器，配置到 PicGo 上，然后再让 PicGo 帮你生成图片的 url 链接。
 
-## 排版相关
 
-### 公众号 Markdown 编辑器推荐
 
-- 【荐】markdown 在线转换工具 1：<https://www.mdnice.com/>
+## 公众号 Markdown 编辑器推荐
+
+### 工具1：mdnice
+
+- mdnice 网址：<https://www.mdnice.com/>
 
 这个 markdown 排版网站用的人最多。还可以针对外链，自动生成脚注。
 
-- markdown 在线转换工具 2：<http://prod.zkqiang.cn/wxeditor/index.html>
+### 可能吧排版
 
-可以针对外链，自动生成脚注。
+- 网址<：https://knb.im/mp/>
+
+### lab.lyric.im排版
 
 - markdown 在线转换工具 3：<https://lab.lyric.im/wxformat>
 
-- markdown 在线转换工具 4：<http://md.aclickall.com/>
+### zkqiang.cn排版
 
-- markdown 在线转换工具 5：<http://blog.didispace.com/tools/online-markdown/>
+- 网址：<http://prod.zkqiang.cn/wxeditor/index.html>
 
-### 文本纠错
+### aclickall.com排版
+
+- 网址：<http://md.aclickall.com/>
+
+### blog.didispace.com排版
+
+- 网址：<http://blog.didispace.com/tools/online-markdown/>
+
+## 文本纠错
 
 写作猫（文本纠错网站）：<https://xiezuocat.com/>
 
