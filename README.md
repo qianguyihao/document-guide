@@ -258,7 +258,9 @@ Facebook, Inc.
 
 ## 公众号 Markdown 编辑器推荐
 
-### 工具1：mdnice
+> 市面上常见的、大众的、小众的、在线版的 Mardown 排版工具，都在这儿了。
+
+### mdnice排版
 
 - mdnice 网址：<https://www.mdnice.com/>
 
