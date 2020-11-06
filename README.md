@@ -260,11 +260,8 @@ Facebook, Inc.
 
 > 市面上常见的、大众的、小众的、在线版的 Mardown 排版工具，都在这儿了。
 
-### mdnice排版
+> 大部分排版工具，可以针对外链，自动生成脚注。
 
-- mdnice 网址：<https://www.mdnice.com/>
-
-这个 markdown 排版网站用的人最多。还可以针对外链，自动生成脚注。
 
 ### 可能吧排版
 
@@ -285,6 +282,12 @@ Facebook, Inc.
 ### blog.didispace.com排版
 
 - 网址：<http://blog.didispace.com/tools/online-markdown/>
+
+### mdnice排版
+
+- mdnice 网址：<https://www.mdnice.com/>
+
+这个 markdown 排版网站用的人挺多，但现在要求强登录了（这个我没意见），而且需要关注公众号才能注册账号（强行导流，这就很恶心了）。所以我现在不是很推荐了。
 
 ## 文本纠错
 
