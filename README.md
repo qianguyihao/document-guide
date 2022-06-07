@@ -273,11 +273,18 @@ Facebook, Inc.
 
 无广告、沉浸式写作、支持定制化主题、审美在线、一键复制后即可发布 的排版编辑器。免登陆＋免费使用。
 
-详细介绍：[Juicing 工具篇——「Rabbit Hole」微信排版编辑器上线](https://mp.weixin.qq.com/s/JOZsf4CL0yY_yj70gjlacw)
+详细介绍：[Juicing 工具篇——「Rabbit Hole」微信排版编辑器上线](https://mp.weixin.qq.com/s/JOZsf4CL0yY_yj70gjlacw)、[Juicing Juice 导论 | 一份榨汁机说明书](https://mp.weixin.qq.com/s/aMJHXw57oOYzQwGJGdTVag)
+
+
+### Markdown 在线编辑器
+
+- <https://markdown.com.cn/editor/>
 
 ### lab.lyric.im排版
 
-- markdown 在线转换工具 3：<https://lab.lyric.im/wxformat>
+- markdown 在线转换工具：<https://lab.lyric.im/wxformat>
+
+歌词经理作品。
 
 ### zkqiang.cn排版
 
@@ -287,15 +294,15 @@ Facebook, Inc.
 
 - 网址：<http://md.aclickall.com/>
 
-### blog.didispace.com排版
+### openwrite 排版
 
-- 网址：<http://blog.didispace.com/tools/online-markdown/>
+- 网址：<https://md.openwrite.cn/>
 
-### mdnice排版
+### mdnice 排版
 
 - mdnice 网址：<https://www.mdnice.com/>
 
-这个 markdown 排版网站用的人挺多，在程序员的圈子流传很广。但自2020年10月底开始，它已经不再单纯是一个排版工具了，逐渐向社区演进，略显臃肿。
+这个 markdown 排版网站用的人挺多，在程序员的圈子流传很广。但自2020年10月底开始，需要登录才能使用；它已经不再单纯是一个排版工具了，逐渐向社区演进，略显臃肿。
 
 ## 文本纠错
 
